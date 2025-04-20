@@ -1,0 +1,14 @@
+# Remove virtual environment
+/venv
+
+# Remove all .pyc files
+/__pycache__
+/middleware/__pycache__
+/routers/__pycache__
+/services/__pycache__
+
+# Remove arquivos sensíveis
+.env
+
+# Remove chaves de acesso
+/keys/*
